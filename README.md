@@ -3,17 +3,17 @@ Happiness around the world varies greatly, shaped by the psychological and socia
 
 The six major factors commonly used in the World Happiness Report to explain differences in happiness between countries are:
 
-**1. GDP per Capita (Income)**
+- **1. GDP per Capita (Income)**
 Measures average income and living standards. Higher income generally gives people better access to necessities, healthcare, and opportunities.
-**2. Social Support**
+- **2. Social Support**
 Reflects whether people have family, friends, or community members they can rely on during difficult times.
-**3. Healthy Life Expectancy**
+- **3. Healthy Life Expectancy**
 Measures how long people can expect to live in good health. Better health often leads to greater well-being and life satisfaction.
-**4. Freedom to Make Life Choices**
+- **4. Freedom to Make Life Choices**
 Indicates how much control people feel they have over important decisions in their lives, such as work, education, and lifestyle.
-**5. Generosity**
+- **5. Generosity**
 Measures willingness to help others, donate, or engage in acts of kindness. Societies with higher generosity often report higher happiness.
-**6. Perceptions of Corruption**
+- **6. Perceptions of Corruption**
 Reflects trust in government and institutions. Lower levels of perceived corruption are generally linked to higher happiness.
 
 
